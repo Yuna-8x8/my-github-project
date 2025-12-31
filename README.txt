@@ -1,4 +1,6 @@
 This line was modified on MAIN branch.
+This line was modified on FEATURE-A branch.
+>>>>>>> feature-A
 This repository demonstrates basic Git operations.
 Learning Git is fun!
 This line will be staged.
