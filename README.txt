@@ -6,4 +6,3 @@ Learning Git is fun!
 This line will be staged.
 Update made on main branch before merging feature-A.
 Test commit by Roll No 23046
-Test commit by Roll No 23057
